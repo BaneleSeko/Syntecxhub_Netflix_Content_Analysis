@@ -1,4 +1,4 @@
-# Syntecxhub_Netflix_Content_Analysis
+# Netflix Content Analysis Using Python
 
 ## Project Overview
 
